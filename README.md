@@ -7,7 +7,7 @@ sensitivity "2.9"<br>
 cl_mouseaccel "0.17"<br>
 m_pitch, m_yaw "0.022"<br>
 <br>
-Iam using Zowie FK2 @400 dpi</p>
+I'am using Zowie FK2 @400 dpi</p>
 <hr>
 
 
